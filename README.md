@@ -63,11 +63,12 @@ You can easily toggle between them in the code to observe how they impact traini
 
 After training, the network should correctly predict the XOR outputs:
 
-Input A | Input B | Predicted Output
-  0     |    0    |   0
-  0     |    1    |   1
-  1     |    0    |   1
-  1     |    1    |   0
+| Input A | Input B | Predicted Output |
+|---------|---------|------------------|
+|    0    |    0    |        0         |
+|    0    |    1    |        1         |
+|    1    |    0    |        1         |
+|    1    |    1    |        0         |
 
 ---
 
